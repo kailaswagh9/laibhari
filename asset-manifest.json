@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/laibhari/static/css/main.20a66a1e.chunk.css",
+    "main.js": "/laibhari/static/js/main.3ad4be9b.chunk.js",
+    "main.js.map": "/laibhari/static/js/main.3ad4be9b.chunk.js.map",
+    "runtime-main.js": "/laibhari/static/js/runtime-main.2fe514b8.js",
+    "runtime-main.js.map": "/laibhari/static/js/runtime-main.2fe514b8.js.map",
+    "static/js/2.760ec6e2.chunk.js": "/laibhari/static/js/2.760ec6e2.chunk.js",
+    "static/js/2.760ec6e2.chunk.js.map": "/laibhari/static/js/2.760ec6e2.chunk.js.map",
+    "index.html": "/laibhari/index.html",
+    "static/css/main.20a66a1e.chunk.css.map": "/laibhari/static/css/main.20a66a1e.chunk.css.map",
+    "static/js/2.760ec6e2.chunk.js.LICENSE.txt": "/laibhari/static/js/2.760ec6e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fe514b8.js",
+    "static/js/2.760ec6e2.chunk.js",
+    "static/css/main.20a66a1e.chunk.css",
+    "static/js/main.3ad4be9b.chunk.js"
+  ]
+}
