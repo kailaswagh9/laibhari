@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.navbar_style{
+    background-color: black;
+    padding: 23px;
+}
+.navmenu{
+    color: white;
+    margin-right: 12%;
+    padding: 12px;
+    text-decoration: none;
+}
+.active_class{
+    background-color: white;
+    color: black;
+}
